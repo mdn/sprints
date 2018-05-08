@@ -1,0 +1,18 @@
+{
+  "name": "sprints",
+  "description": "Documentation, issues, etc. for MDN's ZenHub use for sprint planning",
+  "repository": {
+    "url": "https://github.com/mdn/sprints",
+    "license": "CC0"
+  },
+  "participate": {
+    "home": "https://github.com/mdn/sprints",
+    "docs": "https://github.com/mdn/sprints",
+    "mailing-list": "https://discourse.mozilla.org/c/mdn",
+    "irc": "irc://irc.mozilla.org/mdn"
+  },
+  "keywords": [
+    "planning",
+    "meta"
+  ]
+}
