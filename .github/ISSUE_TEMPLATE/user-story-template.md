@@ -15,4 +15,4 @@ As a ..., I want to ..., so I can ...
 # Tasks
 *If relevant, you can make a checklist for tasks.*
 
-1. -[ ] This is an incomplete task.
+1. - [ ] This is an incomplete task.
