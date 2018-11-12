@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: Content issue template
 about: This template is for user-submitted documentation requests.
 
 ---
