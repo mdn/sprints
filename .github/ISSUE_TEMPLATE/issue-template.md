@@ -5,6 +5,7 @@ about: This template is for user-submitted documentation requests.
 ---
 
 # Request type
+- [x] Please close this issue, I accidentally submitted it without adding any details
 - [ ] New documentation
 - [ ] Correction or update
 
