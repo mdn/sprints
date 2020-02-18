@@ -1,3 +1,2 @@
 This repository is for documentation, issues, milestones, and other items
-needed for MDN's use of [ZenHub](https://www.zenhub.com/) for planning
-sprints.
+used to track the writing and management of content for the [MDN Web Docs](https://developer.mozilla.org/) web developer documentation site. Our workflow is optimized around using [ZenHub](https://www.zenhub.com/) to enhance the planning and management of our periodic work sprints, so certain relationships among items are only available if you use Zenhub.
