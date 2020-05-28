@@ -11,13 +11,13 @@ The MDN team provides developers with the information they need to easily build 
 
 | MDN Content Area | Links |
 |:----------------:|-------|
-| [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Project board](https://github.com/mdn/sprints/projects/6) <br> [File a new CSS docs issue](https://github.com/mdn/sprints/issues/new?assignees=chrisdavidmills&labels=Content%3ACSS&template=1-css-docs-template.md) |
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Project board](https://github.com/mdn/sprints/projects/5) <br> [File a new JS docs issue](https://github.com/mdn/sprints/issues/new?assignees=elchi3&labels=Content%3AJS&template=2-js-docs-template.md) |
-| [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [Project board](https://github.com/mdn/sprints/projects/9) <br> [File a new HTML docs issue](https://github.com/mdn/sprints/issues/new?assignees=wbamberg&labels=Content%3AHTML&template=3-html-docs-template.md) |
-| [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) | [Project board](https://github.com/mdn/sprints/projects/10) <br> [File a new HTTP docs issue](https://github.com/mdn/sprints/issues/new?assignees=elchi3&labels=Content%3AHTTP&template=4-http-docs-template.md) |
-| [DevTools](https://developer.mozilla.org/en-US/docs/Tools) | [Project board](https://github.com/mdn/sprints/projects/8) <br> [File a new DevTools docs issue](https://github.com/mdn/sprints/issues/new?assignees=jmswisher&labels=Content%3ADevTools&template=5-devtools-docs-template.md) |
-| [WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) | [Project board](https://github.com/mdn/sprints/projects/7) <br> [File a new WebExtensions docs issue](https://github.com/mdn/sprints/issues/new?assignees=wbamberg&labels=Content%3AWebExt&template=6-webext-docs-template.md) |
-| [Learn](https://developer.mozilla.org/en-US/docs/Learn) | [Project board](https://github.com/mdn/sprints/projects/12) <br> [File a new Learn docs issue](https://github.com/mdn/sprints/issues/new?assignees=chrisdavidmills&labels=Content%3ALearn&template=7-learn-docs-template.md) |
+| [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Project board](https://github.com/mdn/sprints/projects/6) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=chrisdavidmills&labels=Content%3ACSS&template=1-css-docs-template.md) |
+| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Project board](https://github.com/mdn/sprints/projects/5) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=elchi3&labels=Content%3AJS&template=2-js-docs-template.md) |
+| [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [Project board](https://github.com/mdn/sprints/projects/9) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=wbamberg&labels=Content%3AHTML&template=3-html-docs-template.md) |
+| [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) | [Project board](https://github.com/mdn/sprints/projects/10) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=elchi3&labels=Content%3AHTTP&template=4-http-docs-template.md) |
+| [DevTools](https://developer.mozilla.org/en-US/docs/Tools) | [Project board](https://github.com/mdn/sprints/projects/8) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=jmswisher&labels=Content%3ADevTools&template=5-devtools-docs-template.md) |
+| [WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) | [Project board](https://github.com/mdn/sprints/projects/7) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=wbamberg&labels=Content%3AWebExt&template=6-webext-docs-template.md) |
+| [Learn](https://developer.mozilla.org/en-US/docs/Learn) | [Project board](https://github.com/mdn/sprints/projects/12) <br> [File a new docs issue](https://github.com/mdn/sprints/issues/new?assignees=chrisdavidmills&labels=Content%3ALearn&template=7-learn-docs-template.md) |
 
 
 ## More MDN projects
