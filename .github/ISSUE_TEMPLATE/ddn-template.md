@@ -1,6 +1,7 @@
 ---
 name: DDN issue template
 about: This template is for DDN issues.
+labels: Content
 
 ---
 
