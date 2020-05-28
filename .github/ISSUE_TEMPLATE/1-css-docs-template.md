@@ -1,5 +1,5 @@
 ---
-name: New issue for MDN CSS docs
+name: File a new issue for MDN CSS docs
 about: "Template for issues regarding docs under https://developer.mozilla.org/en-US/docs/Web/CSS"
 labels: "Content:CSS"
 assignees: chrisdavidmills
