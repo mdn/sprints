@@ -20,9 +20,4 @@ As a ..., I want to ..., so I can ...
 4. - [ ] Acceptance criteria is verifiable / testable 
 5. - [ ] External / 3rd Party dependencies identified 
 
-# Done Checklist 
-1. - [ ] Tests passed 
-2. - [ ] Code review done
-3. - [ ] Code merged to Master
-4. - [ ] Pushed to staging
 
