@@ -4,6 +4,10 @@ used to track the writing and management of content for the [MDN Web Docs](https
 
 Our workflow is optimized around using [ZenHub](https://www.zenhub.com/) to enhance the planning and management of our periodic work sprints, so certain relationships among items are only available if you use Zenhub.
 
+## Contact us
+
+Chat on [chat.mozilla.org#mdn](https://chat.mozilla.org/#/room/#mdn:mozilla.org).
+
 
 ## MDN documentation projects
 
@@ -22,7 +26,7 @@ The MDN team provides developers with the information they need to easily build 
 
 ## More MDN projects
 
-The MDN platform (kuma) and additional MDN projects (mdn-compat-data, interactive-examples, etc.) track their issues own their own repositories.
+The MDN platform (kuma) and additional MDN projects (mdn-compat-data, interactive-examples, etc.) track their issues on their own repositories.
 
 | MDN project repo | Links |
 |------------------|-------|
