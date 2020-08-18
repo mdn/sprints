@@ -2,7 +2,6 @@
 name: File a new issue for MDN DevTools docs
 about: "Template for issues regarding docs under https://developer.mozilla.org/en-US/Tools"
 labels: "Content:DevTools"
-assignees: jmswisher
 ---
 
 ## URL(s)
