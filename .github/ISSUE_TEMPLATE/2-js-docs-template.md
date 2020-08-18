@@ -2,7 +2,6 @@
 name: File a new issue for MDN JavaScript docs
 about: "Template for issues regarding docs under https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 labels: "Content:JS"
-assignees: elchi3
 ---
 
 ## URL(s)
