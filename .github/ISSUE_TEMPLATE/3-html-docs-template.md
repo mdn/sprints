@@ -2,7 +2,6 @@
 name: File a new issue for MDN HTML docs
 about: "Template for issues regarding docs under https://developer.mozilla.org/en-US/docs/Web/HTML"
 labels: "Content:HTML"
-assignees: wbamberg
 ---
 
 ## URL(s)
