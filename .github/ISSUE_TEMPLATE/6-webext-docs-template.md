@@ -2,7 +2,6 @@
 name: File a new issue for MDN WebExtensions docs
 about: "Template for issues regarding docs under https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions"
 labels: "Content:WebExt"
-assignees: wbamberg
 ---
 
 ## URL(s)
