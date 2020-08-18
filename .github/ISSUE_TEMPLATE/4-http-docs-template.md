@@ -2,7 +2,6 @@
 name: File a new issue for MDN HTTP docs
 about: "Template for issues regarding docs under https://developer.mozilla.org/en-US/docs/Web/HTTP"
 labels: "Content:HTTP"
-assignees: elchi3
 ---
 
 ## URL(s)
