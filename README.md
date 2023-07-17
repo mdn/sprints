@@ -1,3 +1,4 @@
+## We are in the process of archiving this repostory - please raise an issue on [mdn/content](https://github.com/mdn/content) instead, thanks
 
 This repository is for documentation, issues, milestones, and other items
 used to track the writing and management of content for the [MDN Web Docs](https://developer.mozilla.org/) web developer documentation site. 
